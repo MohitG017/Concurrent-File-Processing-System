@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Desktop/advancedProject/file3.txt: Go occurs 2 times
+C:/Users/LENOVO/Desktop/advancedProject/file2.txt: Go occurs 2 times
+C:/Users/LENOVO/Desktop/advancedProject/file1.txt: Go occurs 4 times

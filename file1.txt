@@ -1,0 +1,4 @@
+Go is a statically typed, compiled programming language.
+Go has concurrency primitives built into the language.
+Go has concurrency primitives built into the language.
+Go has concurrency primitives built into the language.

@@ -1,0 +1,2 @@
+Go has garbage collection.
+Go simplifies software development.
